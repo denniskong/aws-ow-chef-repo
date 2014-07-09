@@ -1,5 +1,6 @@
 DEPENDENCIES
   elasticsearch
+  java
 
 GRAPH
   7-zip (1.0.2)

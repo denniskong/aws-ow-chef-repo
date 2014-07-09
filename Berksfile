@@ -4,3 +4,4 @@
 source "https://api.berkshelf.com"
 
 cookbook 'elasticsearch'
+cookbook 'java'
